@@ -1,0 +1,4 @@
+Sitemap: https://gragusa.org/macrotopics/sitemap.xml
+
+User-agent: *
+Disallow:
