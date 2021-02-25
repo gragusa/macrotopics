@@ -5,7 +5,6 @@ Course Description
 
 Topics range from classic time series concepts such as linear univariate and multivariate processes (ARMA, VAR) to techniques that have only recently entered the applied macroeconomist' toolbox (Bayesian VAR and Factor Models).
 
-
 Students need to be familiar with econometric theory at the level of Advanced Econometrics (246PP).
 
 Texbook and Readings 
@@ -41,7 +40,7 @@ Due to the COVID-19 health emergency, the class will be remote with lectures str
 Software and Programming 
 ========================
 
-The emphasis of the course is on methods and the analysis of data sets. The best way to understand time series concepts is to write lots of code implementing the various techniques discussed in class on real data. The language used in this course is The language used in this course is [Julia](https://julialang.org).
+The emphasis of the course is on methods and the analysis of real dataset. The best way to understand time series concepts is to write lots of code implementing the various techniques discussed in class on real macro e financial data. The computer language used in this course is [Julia](https://julialang.org).
 
 Exams 
 =====
@@ -56,13 +55,13 @@ Course Outline
 
 2.  Stationary Process
 
-    1.  Linear processes
+    1. Linear processes
+    
+    2. The Wold representation theorem
 
-    2.  The Wold representation theorem
+    3. ARMA processes: estimation and forecasting
 
-    3.  ARMA processes: estimation, and forecasting
-
-    4.  ARIMA models for non-stationary time series
+    4. ARIMA models for non-stationary time series
 
 3.  Multivariate Time Series
 
@@ -91,3 +90,4 @@ Course Outline
     1.  Principal components
 
     2.  Dynamic factor models
+
