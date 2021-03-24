@@ -8,4 +8,10 @@
 
 - [Lecture 4](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture04_03052021.mp4)
 
+- [Lecture 6](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture06_03182021.mp4)
 
+- [Lecture 7](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture07_19032021.mp4)
+
+- [Lecture 8]()
+
+- [Lecture 9]()
