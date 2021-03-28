@@ -12,6 +12,6 @@
 
 - [Lecture 7](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture07_19032021.mp4)
 
-- [Lecture 8]()
+- [Lecture 8](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture08-25032021.mp4)
 
-- [Lecture 9]()
+- [Lecture 9](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture08-25032021.mp4)
