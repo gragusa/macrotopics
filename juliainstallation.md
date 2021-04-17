@@ -68,5 +68,11 @@ As for Jupyter, you browser should get you to the Pluto landing page:
 
 _Note: We need a modern browser to view Pluto notebooks with. Firefox and Chrome work best._
 
+## Resources
+
+Here is a list of resources that can be useful in writing Julia code:
+
+- [The Julia manual](https://docs.julialang.org/en/v1/)
+- [Mathematical vs Julia notation](https://web.stanford.edu/class/engr108/julia_slides/julia_vs_math.pdf)
 
 
