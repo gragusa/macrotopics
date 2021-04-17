@@ -15,6 +15,13 @@
 - [Lecture 8](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture08-25032021.mp4)
 
 - [Lecture 9](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture08-25032021.mp4)
+
   - Pluto Notebook [jl](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Pluto%20Notebook/AR1.jl)
 
 - [Lecture 10](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture10-01042021.mp4)
+
+- [Lecture 11](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture11-15042021.mp4)
+
+- [Lecture 12](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture12-042021.mp4)
+
+  - Pluto Notebook [jl](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Pluto%20Notebook/SVAR.jl)
