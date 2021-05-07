@@ -30,3 +30,7 @@
   - Pluto Notebook (SVAR + wb) [jl](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Pluto%20Notebook/SVAR_wb.jl)
 
 - [Lecture 14](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture14-23042021.mp4)
+
+- [Lecture 15](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture16-07052021.mp4)
+
+- [Lecture 16](https://unipiit.sharepoint.com/sites/a__td_47281/Shared%20Documents/General/Lecture%20Videos/Lecture16-30042021.mp4)
