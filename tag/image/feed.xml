@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Topics in Macroeconometrics &#40;610PP&#41;  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://gragusa.org/macrotopics </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Website for Topics in Macroeconometrics  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://gragusa.org/macrotopics/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
