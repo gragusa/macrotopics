@@ -1,3 +1,4 @@
+Welcome to _Topics in Macroeconometrics_ 2021/2022 edition!
 
 Course Description 
 ==================
@@ -28,7 +29,7 @@ Other references and handout will be posted here!
 Teams channel and class website 
 ===============================
 
-The class has is own [Teams channel](https://teams.microsoft.com/l/team/19%3a4dd78435d16646d9b6fe8d18c37e3dcb%40thread.tacv2/conversations?groupId=7af25703-eb1a-4d6f-9aee-341aef9e1121&tenantId=c7456b31-a220-47f5-be52-473828670aa1). I will use it extensively for important communication.
+The class has is own [Teams channel](https://teams.microsoft.com/l/team/19%3azQJE2HZpw-bdHBPjK-02bjJ4t5rWHC9ZNMeW3G-jGvU1%40thread.tacv2/conversations?groupId=dd35d7b2-31bb-44b3-b013-412a908eecb8&tenantId=c7456b31-a220-47f5-be52-473828670aa1). I will use it extensively for important communication.
 
 The class has also a website [https://gragusa.org/macrotopics](https://gragusa.org/macrotopics). I will use it to host the course material.
 
@@ -79,15 +80,12 @@ Course Outline
 
     3.  Applications: Bayesian VAR
 
-5.  State-Space Models
-
-    1.  Linear state-space models
-
-    2.  The Kalman filter
 
 6.  Factor models and High Dimensional Econometrics
 
     1.  Principal components
 
     2.  Dynamic factor models
+
+    3.  Ridge and Lasso
 

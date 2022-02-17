@@ -1,12 +1,12 @@
 # First-time setup: Install Julia, Jupyter & Pluto
 
-### Step 1: Install Julia 1.5.4
+### Step 1: Install Julia 1.7.2
 
 Go to https://julialang.org/downloads and download the current stable release, Julia 1.5.4, using the correct version for your operating system (Linux x86, Mac, Windows, etc).
 
 ### Step 2: Run Julia
 
-After installing, make sure that you can run Julia. On some systems, this means searching for the "Julia 1.5.3" program installed on your computer; in others, it means running the command julia in a terminal. 
+After installing, make sure that you can run Julia. On some systems, this means searching for the "Julia 1.7.1" program installed on your computer; in others, it means running the command julia in a terminal. 
 
 Make sure that you can execute a simple command, like `sin(3.14)`:
 
@@ -24,7 +24,7 @@ To install Jupyter, we want to run a package manager command. To switch from Jul
 ```julia
 julia> ]
 
-(@v1.5) pkg>
+(@v1.7) pkg>
 ```
 
 The line turns blue and the prompt changes to `pkg>`. This prompt is telling you that you are now in package manager mode which allows you to do operations on packages (also called libraries).
@@ -32,7 +32,7 @@ The line turns blue and the prompt changes to `pkg>`. This prompt is telling you
 To install Jupyter, run the following (case sensitive) command to add (install) the package to your system by downloading it from the internet. You should only need to do this once for each installation of Julia:
 
 ```julia
-(@v1.5) pkg> add IJulia
+(@v1.7) pkg> add IJulia
 ```
 
 If everything goes as planned, you will get back to the package manager mode prompt. Press ESC to go back to the Julia prompt. Then load the library
@@ -51,7 +51,7 @@ From here you can create a new notebook.
 
 To install Pluto, run the following (case sensitive) command from the package manager mode, that is, after you press `]` from the REPL: 
 ```julia
-(@v1.5) pkg> add Pluto
+(@v1.7) pkg> add Pluto
 ```
 
 This might take a couple of minutes, so you can go get yourself a cup of tea!
