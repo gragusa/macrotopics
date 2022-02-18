@@ -234,13 +234,16 @@ img[src*="#badge"] {
     margin-bottom: 1em;}
 .franklin-content tr,th,td{
     padding: 10px;
-    border: 1px solid black;}
+    border: 1px solid rgb(207, 204, 204);}
 
 .franklin-content table tbody tr td {
-  border: 1px solid black;
+  border: 0px solid black;
 }
 
-
+.franklin-content th {
+    text-align: left;
+  }
+  
 .warning {
   margin-top: 1.5em;
   width: 95%;

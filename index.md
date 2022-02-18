@@ -28,22 +28,22 @@ I will provide handouts to highlight challenging aspects of a topic or present m
 Other references useful for specific part of the course will be posted here!
 
 
-Teams channel and class website 
+Teams Channel
 ===============================
 
 The class has is own [Teams channel](https://teams.microsoft.com/l/team/19%3azQJE2HZpw-bdHBPjK-02bjJ4t5rWHC9ZNMeW3G-jGvU1%40thread.tacv2/conversations?groupId=dd35d7b2-31bb-44b3-b013-412a908eecb8&tenantId=c7456b31-a220-47f5-be52-473828670aa1). I will use it extensively for important communication.
 
-Lecture 
-=======
+Lectures
+========
 
 | Day       | Time  | Classroom |
 |-----------|-------|-----------|
 | Tuesday   | 14:45 | P1        |
 | Wednesday | 12:15 | P1        |
 
-The class will be streamed on Teams. Link will be available on the [Teams channel](https://teams.microsoft.com/l/team/19%3azQJE2HZpw-bdHBPjK-02bjJ4t5rWHC9ZNMeW3G-jGvU1%40thread.tacv2/conversations?groupId=dd35d7b2-31bb-44b3-b013-412a908eecb8&tenantId=c7456b31-a220-47f5-be52-473828670aa1)
+Lectures will be streamed live on Teams. A link to the stream will be made available on the [Teams channel] a few hours before the start of each class. Lectures will not be recorded, and in-person should be considered the standard way of attendance
 
-Software and Programming 
+Software
 ========================
 
 ![julia](https://julialang.org/assets/infra/logo.svg)
@@ -96,3 +96,5 @@ Course Outline
 
     3.  Ridge and Lasso
 
+
+[Teams Channel]: https://teams.microsoft.com/l/team/19%3azQJE2HZpw-bdHBPjK-02bjJ4t5rWHC9ZNMeW3G-jGvU1%40thread.tacv2/conversations?groupId=dd35d7b2-31bb-44b3-b013-412a908eecb8&tenantId=c7456b31-a220-47f5-be52-473828670aa1
