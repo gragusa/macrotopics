@@ -1,5 +1,3 @@
-# _Topics in Macroeconometrics_ 2021/2022 edition!
-
 Course Description 
 ==================
 
@@ -98,3 +96,9 @@ Course Outline
 
 
 [Teams Channel]: https://teams.microsoft.com/l/team/19%3azQJE2HZpw-bdHBPjK-02bjJ4t5rWHC9ZNMeW3G-jGvU1%40thread.tacv2/conversations?groupId=dd35d7b2-31bb-44b3-b013-412a908eecb8&tenantId=c7456b31-a220-47f5-be52-473828670aa1
+
+
+## Pluto's Notebook
+
+- [Working with Auto-Regressive](/ar/)
+- [Estimating Auto-Regressive: conditional and full likelihood](/ar_like/)
