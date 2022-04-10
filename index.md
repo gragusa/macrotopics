@@ -102,3 +102,5 @@ Course Outline
 
 - [Working with Auto-Regressive](/ar/)
 - [Estimating Auto-Regressive: conditional and full likelihood](/ar_like/)
+- [Estimating VARs](/varest/)
+- [Building System Image](/sysimg/)
