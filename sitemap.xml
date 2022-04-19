@@ -3,97 +3,109 @@
 
 <url>
     <loc>https://gragusa.org/macrotopics/ar/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://gragusa.org/macrotopics/hw1/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://gragusa.org/macrotopics/404/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://gragusa.org/macrotopics/lecturevideos/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/sysimg/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://gragusa.org/macrotopics/homeworks/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
+    <loc>https://gragusa.org/macrotopics/lecturevideos/index.html</loc>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/juliainstallation/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/ar_like/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://gragusa.org/macrotopics/varest/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
+    <loc>https://gragusa.org/macrotopics/hw1/index.html</loc>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://gragusa.org/macrotopics/404/index.html</loc>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://gragusa.org/macrotopics/homeworks/index.html</loc>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://gragusa.org/macrotopics/hw2/index.html</loc>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/index.html</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://gragusa.org/macrotopics/varest/index.html</loc>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/pluto/00_AR1.jl</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/pluto/02_VAR.jl</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/pluto/03_SYSIMAGE.jl</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/pluto/02_VAREST.jl</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://gragusa.org/macrotopics/pluto/Homework2.jl</loc>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/pluto/Homework1.jl</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://gragusa.org/macrotopics/pluto/01_AR_likelihood.jl</loc>
-    <lastmod>2022-04-12</lastmod>
+    <lastmod>2022-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
